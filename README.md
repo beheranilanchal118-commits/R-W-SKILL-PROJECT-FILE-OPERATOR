@@ -82,7 +82,6 @@ The application handles different types of errors, including:
 
 Journal-Management-System/
 - journal.py
-- journal.txt
 - README.md
 
 ## Project Objective
